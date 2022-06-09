@@ -1,0 +1,10 @@
+.DS_Store
+target
+target/**/*
+.idea
+*.iml
+app.log*
+projects-service/src/main/resources/application-default.yml
+projects-service/src/main/resources/application-local.yml
+.project
+.settings/**
